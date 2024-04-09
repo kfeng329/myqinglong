@@ -1,7 +1,7 @@
 """
 霸王茶姬签到
 
-打开微信小程序抓webapi.qmai.cn里面的qm-user-token(一般在请求头里)填到变量bwcjck里面即可
+打开微信小程序抓webapi.qmai.cn里面的qm-user-token(一般在请求头里)填到变量 bwcjck 里面即可
 
 支持多用户运行
 

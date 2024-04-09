@@ -5,6 +5,7 @@
 阅光宝盒, 立减金打卡, 支付日活动(每个月26-28号), 阅读专区抽奖, 云盘每月抽奖
 
 定时每天两三次
+使用reqable抓包
 需要在联通APP中选择退出登录-切换账号登录, 捉下面这个包
 https://m.client.10010.com/mobileService/onLine.htm
 把请求体(body)里面的token_online参数填到变量 chinaUnicomCookie 里, 多账号换行或&或@隔开:
